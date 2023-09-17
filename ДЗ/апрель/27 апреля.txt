@@ -1,0 +1,6 @@
+ДЗ
+1. Доделываем тест-кейсы и баг-репорты Guru99Telecom (10 и 5 шт. соответственно)
+2. Изучаем техники тест-дизайна https://www.youtube.com/watch?v=i7PkPzRU6EI
+3. Читаем статьи про тестирование граничных значений и классы эквивалентности и диаграмму состояний
+https://qaevolution.ru/testovaya-dokumentaciya/test-dizajn/texnika-analiza-granichnyx-znachenij/
+https://qaevolution.ru/testovaya-dokumentaciya/test-dizajn/texnika-analiza-klassov-ekvivalentnosti/

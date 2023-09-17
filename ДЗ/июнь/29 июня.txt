@@ -1,0 +1,15 @@
+ДЗ
+1.Повторяем пройденную теорию Web
+2.Статья об Ip-адресах https://habr.com/ru/post/350878/
+3.Статья о куки http://security.mosmetod.ru/paroli/215-chto-takoe-cookie-fajly
+4.Видео о DNS https://www.youtube.com/watch?v=0r55MCfkMfM
+5.Статья о DHCP https://selectel.ru/blog/dhcp-protocol/
+
+Дополнительно:
+1.Смотрим видео про основы HTML 
+https://youtu.be/MBe1h80ghKA
+https://youtu.be/4jYYHaTwWvY
+2.Пробуем написать простенькую страничку на HTML с фразой "Привет, Мир", ссылкой на гугл, прикрепленной картинкой и ЯндексКартой с координатами главной площади города (https://yandex.ru/dev/maps/?p=realty) 
+Будет полезно пару уроков в 3wschool пройти https://www.w3schools.com/html/
+3. Читаем про Json и XML и разницу между ними https://qaschool.ru/blog/chto-takoe-xml-i-json-ih-osobennosti/#:~:text=JSON%20%D0%B8%20XML%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%82%D1%81%D1%8F%20%D0%B4%D0%BB%D1%8F,%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20JavaScript.
+4. Читаем про статус-коды https://developer.mozilla.org/ru/docs/Web/HTTP/Status

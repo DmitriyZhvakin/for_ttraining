@@ -1,0 +1,9 @@
+ДЗ
+1. Смотрим про основы компьютерных сетей  https://youtu.be/2NjjmwMT4nY
+2. Читаем про HTTP https://habr.com/ru/post/215117/
+3. Читаем статью Основы компьютерных сетей https://habr.com/ru/post/307252/
+4. Знакомимся с элементами интерфейса WEB
+https://habr.com/ru/post/215117/
+http://sites.znu.edu.ua/webprog/lect/1234.ukr.html
+5. Смотрим видео по облачным технологиям https://youtu.be/V0lBzz3GNac
+Плюс знакомимся с книгой по Юзабилити (обсудим на занятии)

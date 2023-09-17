@@ -1,0 +1,13 @@
+ДЗ (на повтор)
+Читаем статьи по релизу: https://habr.com/ru/post/481964/ и https://habr.com/ru/company/hygger/blog/358204/
+Смотрим видео по средам: https://www.youtube.com/watch?v=O9rUH-zfVKo
+Читаем статью про типы тестирования https://habr.com/ru/articles/549054/
+
+ДЗ (новая тема)
+1. Изучаем методологии разработки https://youtu.be/cDvpbdO9cT8
+2. Подробнее изучаем AGILE https://www.youtube.com/watch?v=2hfU-gGx8dk
+3. Подбронее изучаем SCRUM https://www.atlassian.com/ru/agile/scrum (может потребоваться VPN)
+4. Регистрируемся в Jira
+https://www.atlassian.com/software/jira (может потребоваться VPN. Planet VPN, например) 
+5. Cмотрим обучающее видео по Jira https://www.youtube.com/watch?v=6YrgKBTzb5o
+6. Читаем ознакомительную статью по Discord https://journal.tinkoff.ru/discord/ (часто используется для общения в командах на ряду в Телеграм)

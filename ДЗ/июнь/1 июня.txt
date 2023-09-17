@@ -1,0 +1,7 @@
+ДЗ
+1. Устанавливаем и настраиваем базу данных по инструкции
+2. Ознакомительное краткое видео по SQL https://youtu.be/GQfC0nYrto8
+3. Теория и тренажер на W3School https://www.w3schools.com/sql/ (раздел SQL Tutorial)
+4. Также смотрим курс https://www.youtube.com/playlist?list=PLZqgWWF4O-zjy-bixjS1S_PFN9-7rY2vW
+5. Дополнительно смотрим видео по NoSQL https://youtu.be/Xu4S2OX8Gb4
+Плюсом отправляю книгу по SQL (всю читать не нужно, можно пользоваться как справочником по темам, которые будем изучать)

@@ -1,0 +1,22 @@
+ДЗ
+1. Создаем SCRUM проект в Jira. Покрываем тестами User-story Guru99Telecom (создаем тест-кейсы и баг-репорты, для тест-кейсов надо создать шаблон предварительно)
+Читаем про UserStory https://youtu.be/USXJNKRL7NA
+https://www.azoft.ru/blog/user-story/
+https://www.atlassian.com/ru/software/jira/guides
+
+Плюс изучаем доп.материал по методологиям
+Agile:
+https://youtu.be/HN67C_y7ZtY
+https://youtu.be/e2gFPUpMFig
+Waterfall:
+Читаем про релизы https://habr.com/ru/post/481964/
+Читаем про каскадную модель разработки ПО https://changellenge.com/article/ne-tolko-agile-kak-ustroena-model-waterfall-i-v-kakikh-proektakh-ee-ispolzovat/
+
+Тестовая Документация по Waterfall:
+https://youtu.be/BmX1I3Rmt_g
+https://youtu.be/dPH0tVwsO7g
+https://youtu.be/O7RIoxiU1hs
+https://youtu.be/xc1OSYVrPM4
+https://youtu.be/ITbpTJpDX2E
+https://youtu.be/UQh4zBF7H5o
+https://youtu.be/rqO4HslbY2Y
